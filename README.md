@@ -2,7 +2,7 @@
 - 👀 I’m interested in android
 - 🌱 I’m currently learning compose
 - 💞️ I’m looking to collaborate on web
-- 📫 How to reach me -> <zst_1116@icloud.com>
+- 📫 How to reach me -> <237934622@qq.com>
 
 <!---
 miaowmiaow/miaowmiaow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
